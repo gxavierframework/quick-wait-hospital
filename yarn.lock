@@ -6822,7 +6822,7 @@ simple-swizzle@^0.2.2:
   dependencies:
     is-arrayish "^0.3.1"
 
-single-spa-vue@^2.1.0:
+single-spa-vue@^2.5.1:
   version "2.5.1"
   resolved "https://registry.yarnpkg.com/single-spa-vue/-/single-spa-vue-2.5.1.tgz#4d7045116eae87449269bf1c9f8362ff304d2847"
   integrity sha512-Vw0xPs7F9vJd7ZN9gSvkipYfStAOUmke2oeheecK6hpBhLhDCx9uU2GcXC/pL6KuLDom+pZOAZxTg6UdI7Toew==
