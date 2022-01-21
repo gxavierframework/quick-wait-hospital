@@ -1,5 +1,5 @@
 {
-  "name": "quick-wait-vue",
+  "name": "@frwk/hospital",
   "version": "0.1.0",
   "private": true,
   "scripts": {
